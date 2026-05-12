@@ -1,0 +1,25 @@
+{
+  "name": "Fora da Lei Craft Beer",
+  "short_name": "Fora da Lei",
+  "description": "Faça palpites nos jogos da Copa no Fora da Lei e dispute o ranking!",
+  "start_url": "/app-copa-web/fora-da-lei/",
+  "scope": "/app-copa-web/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#FF6B00",
+  "background_color": "#000000",
+  "categories": ["sports", "entertainment"],
+  "icons": [
+    {
+      "src": "/app-copa-web/assets/images/fora-da-lei-favicon.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/app-copa-web/assets/images/fora-da-lei-favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ]
+}
